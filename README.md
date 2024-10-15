@@ -1,2 +1,2 @@
-# QA--SEPT--2024-gal
+# QA-SEPT-2024-gal
 This repo is demo
